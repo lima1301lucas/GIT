@@ -1,7 +1,0 @@
-Controle de versão
-
-- Gerenciar o código fonte de uma aplicação
-- Registra todas as modificações, podendo também reverter
-- Criar versões de um software e fazer as alterações de uma forma mais fácil
-- Trabalhar com versões diferentes
-- Ferramentas para controle de versão? Git e SVN
