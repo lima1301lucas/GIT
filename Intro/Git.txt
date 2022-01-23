@@ -1,0 +1,7 @@
+Git
+
+- Sistema de controle de versão mais usado atualmente
+- Baseado em repositórios que contêm todas as versões do código e as cópias de cada dev
+- Todas as operações são otimizadas para ter yum alto desempenho
+- Os repositórios são protegidos com criptografia para ter mais confiabilidadeem relação a alterações indevidas/maliciosas
+- Git é um projeto de código aberto
