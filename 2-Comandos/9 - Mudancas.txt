@@ -1,5 +1,0 @@
-Baixando as mudanças no código
-
-- Sincronização do repositório local com o remoto
-- Git pull
-- Mudanças se uniram e irão formar o projeto mais atualizado

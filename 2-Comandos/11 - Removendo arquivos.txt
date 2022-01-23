@@ -1,7 +1,0 @@
-Removendo arquivos
-
-- Deletados da monitoração do GIT
-- git rm
-- Após deletar ele não terá mais atualizações consideradas pelo GIT
-- Apenas após um git add
-

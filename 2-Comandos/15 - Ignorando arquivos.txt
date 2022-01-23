@@ -1,7 +1,0 @@
-Ignorar arquivos
-
-- Ignorar arquivos do projeto
-- Arquivo .gitignore na raiz do projeto
-- Inserir todos os arquivos que não devem entrar no versionamento
-- Arquivos gerados automaticamente ou que contém informações sensíveis
-- Arquivos e pastas (/*)

@@ -1,6 +1,0 @@
-Log de alteracões
-
-- Acesso as alteracões no projeto através de um Log
-- git Log
-- Receberá uma informação com os commits realizados até o momento
-- Sair do terminal, basta apertar Q

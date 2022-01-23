@@ -1,5 +1,0 @@
-Salvando alteracoes
-
-- Git commit
-- Arquivos específico com a flag -a
-- Boa prática: enviar uma mensagem a cada commit com a flag -m

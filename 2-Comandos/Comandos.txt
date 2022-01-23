@@ -1,0 +1,116 @@
+Criar um repositório
+
+- git init
+- Pasta ".git" gera os arquivos necessários para incializar o repositório
+- Após o comando o diretório atual vai ser reconhecido como um projeto
+____________________________________________________________________________________________________________________
+
+Enviando repositórios
+
+- Podemos criar o projeto no Github e inicializar o mesmo no git em nossa máquina, sincronizar com o GitHub e enviar
+
+Comandos para enviar:
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/lima1301lucas/GIT.git
+git push -u origin main
+
+Comandos para baixar:
+
+git remote add origin https://github.com/lima1301lucas/GIT.git
+git branch -M main
+git push -u origin main
+______________________________________________________________________________________________________________________
+
+Alterações no projeto
+
+- Git status
+- Mapeamento das alterações no projeto
+- Arquivos não monitorados e arquivos modificados
+- Diferença entre o arquivo enviado ao servidor e o salvo no projeto
+______________________________________________________________________________________________________________________
+
+Novos arquivos
+
+- Git add
+- Adicionar 1 arquivo ou vários de uma única vez
+- Somente adicionando os arquivos que eles serão monitorados pelo Git
+______________________________________________________________________________________________________________________
+
+Salvando alterações
+
+- Git commit
+- Arquivos específico com a flag -a
+- Boa prática: enviar uma mensagem a cada commit com a flag -m
+_______________________________________________________________________________________________________________
+
+Enviando os arquivos
+
+- git push
+- Após finalizar uma funcionalidade nova
+______________________________________________________________________________________________________________________
+
+Baixando as mudanças no código
+
+- Sincronização do repositório local com o remoto
+- Git pull
+- Mudanças se uniram e irão formar o projeto mais atualizado
+______________________________________________________________________________________________________________________
+
+Clonagem de repositórios
+
+- Baixar os arquivos do servidor remoto
+- git clone + link do repositório
+- Usado quando entramos em um novo projeto
+______________________________________________________________________________________________________________________
+
+Removendo arquivos
+
+- Deletados da monitoração do GIT
+- git rm
+- Após deletar ele não terá mais atualizações consideradas pelo GIT
+- Apenas após um git add
+______________________________________________________________________________________________________________________
+
+Log de alteracões
+
+- Acesso as alteracões no projeto através de um Log
+- git Log
+- Receberá uma informação com os commits realizados até o momento
+- Sair do terminal, basta apertar Q
+______________________________________________________________________________________________________________________
+
+Renomeando arquivos
+
+- Git mv podemos renomear o arquivo
+- O mesmo pode ser movido para outra pasta e o git começa a monitorar o arquivo
+- O arquivo anterior é excluído
+
+git mv rodape.css css/rodape.css
+______________________________________________________________________________________________________________________
+
+Desfazer alteracoes
+
+- Arquivo modififaco para retornar ao estado original
+- git checkout
+______________________________________________________________________________________________________________________
+
+Ignorar arquivos
+
+- Ignorar arquivos do projeto
+- Arquivo .gitignore na raiz do projeto
+- Inserir todos os arquivos que não devem entrar no versionamento
+- Arquivos gerados automaticamente ou que contém informações sensíveis
+- Arquivos e pastas (/*)
+______________________________________________________________________________________________________________________
+
+Dezfazer alteracões
+
+- git reset desfazem as mudanças
+- fag --hard
+- todos os commits e alterações pendentes serão apagadas
+
+

@@ -1,5 +1,0 @@
-Novos arquivos
-
-- Git add
-- Adicionar 1 arquivo ou vários de uma única vez
-- Somente adicionando os arquivos que eles serão monitorados pelo Git

@@ -1,4 +1,0 @@
-Enviando os arquivos
-
-- git push
-- Após finalizar uma funcionalidade nova

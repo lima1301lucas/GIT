@@ -1,7 +1,0 @@
-Renomeando arquivos
-
-- Git mv podemos renomear o arquivo
-- O mesmo pode ser movido para outra pasta e o git começa a monitorar o arquivo
-- O arquivo anterior é excluído
-
-git mv rodape.css css/rodape.css

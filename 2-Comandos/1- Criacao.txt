@@ -1,5 +1,0 @@
-Criar um repositório
-
-- git init
-- Pasta ".git" gera os arquivos necessários para incializar o repositório
-- Após o comando o diretório atual vai ser reconhecido como um projeto

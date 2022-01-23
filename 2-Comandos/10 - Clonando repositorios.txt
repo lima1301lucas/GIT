@@ -1,5 +1,0 @@
-Clonagem de repositórios
-
-- Baixar os arquivos do servidor remoto
-- git clone + link do repositório
-- Usado quando entramos em um novo projeto
