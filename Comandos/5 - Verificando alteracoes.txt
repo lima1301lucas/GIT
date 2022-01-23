@@ -1,0 +1,7 @@
+Alterações no projeto
+
+- Git status
+- Mapeamento das alterações no projeto
+- Arquivos não monitorados e arquivos modificados
+- Diferença entre o arquivo enviado ao servidor e o salvo no projeto
+

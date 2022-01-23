@@ -1,0 +1,5 @@
+Dezfazer alteracões
+
+- git reset desfazem as mudanças
+- fag --hard
+- todos os commits e alterações pendentes serão apagadas

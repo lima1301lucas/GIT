@@ -1,0 +1,6 @@
+Repositório
+
+- Onde o código será armazenado
+- Cada projeto tem seu repositório
+- O repositório pode ir para servidores que são especializados nesse tipo de gerenciamento: GitHub e Bitbucket
+- Cada um dos desenvolvedores pode baixar o repositório e criar versões diferentes em sua máquina
