@@ -1,6 +1,7 @@
 Criando e visualizando uma branch
 
-- Visualizar git branch
+- Branch: ramificação no projeto
+- Visualizar: git branch
 - Criar: git branch <nome>
 _________________________________________________________________________________
 
@@ -27,3 +28,45 @@ Unindo branches
 
 _________________________________________________________________________________
 
+Stash
+
+- Salvar as modificações e prosseguir com outra solução
+- git stash
+- Após fazer isso o branch será resetado para sua versão inicial
+
+
+_________________________________________________________________________________
+
+Recuperando uma stach
+
+- git stash list 
+- git stash apply + id 
+- git stash show -p + id (Mostra as alterações)
+
+_________________________________________________________________________________
+
+Removendo a stash
+
+- git stash clear (Apaga todas)
+- git stash clear + nome (Apaga a específica)
+
+_________________________________________________________________________________
+
+Criando tags
+
+- Servem de checkpoint
+- git tag -a <nome> -m <mensagem>
+
+_________________________________________________________________________________
+
+Alterando tags
+
+- git show + <nome> (Mostra tag)
+- git checkout + <nome> (Altera de tag)
+
+_________________________________________________________________________________
+
+Enviando e compartilhando tags
+
+- git push origin <nome>
+- git push origin --tags
