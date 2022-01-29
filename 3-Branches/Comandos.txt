@@ -1,0 +1,29 @@
+Criando e visualizando uma branch
+
+- Visualizar git branch
+- Criar: git branch <nome>
+_________________________________________________________________________________
+
+Deletando uma branch
+
+- flag -d ou --delete
+- Não é comum deletar uma branch
+- Delete é usado quando a branch foi criada errada
+
+_________________________________________________________________________________
+
+Mudando de branch
+
+- git checkout -b <nome>
+- Comando também usado para dispensar as mudanças de um arquivo
+
+_________________________________________________________________________________
+
+Unindo branches
+
+- git merge <nome>
+- Outro comando para a lista de mais usados
+- Por aqui se recebe as atualizações dos outros devs
+
+_________________________________________________________________________________
+
