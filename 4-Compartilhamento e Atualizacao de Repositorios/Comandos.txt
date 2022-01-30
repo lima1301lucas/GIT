@@ -1,0 +1,35 @@
+Compartilhamento e atualização de repositórios
+
+Encontrando branches
+
+- git fetch -a (vê todas as branches criadas)
+- git checkout <nome> -> troca para essa nova branche
+_____________________________________________________________________________________________
+
+Recebendo alterações
+
+- git pull (Sempre na master para que se trabalhe na versão mais atualizada)
+_____________________________________________________________________________________________
+
+Enviando alterações
+
+- git push (Sempre lembrar da sequência de envio)
+_____________________________________________________________________________________________
+
+Utilizando o remote
+
+- git remote (adicionar um repositório para trackear ou remover)
+- git remote add origin <link>
+_____________________________________________________________________________________________
+
+Conhecendo submodules
+
+- Ter 2 ou mais projetos em um só repositório
+- git submodule add <repositorio>
+- git submodule verifica os submódulos
+_____________________________________________________________________________________________
+
+Atualizando os submódulos
+
+- Primeiro deve-se comitar as mudanças 
+- git push --recurse-submodules=on-demand
