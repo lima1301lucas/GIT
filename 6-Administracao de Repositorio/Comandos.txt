@@ -1,0 +1,31 @@
+Limpando os arquivos untracked
+
+- Git clean
+- Mapear os arquivos que não foi usado o git add
+- Ao utilizar -f (force) o Git é forçado a fazer a tarefa
+______________________________________________________________________________________________________________________________________________________________________
+
+Otimizando o repositório
+
+- Git gc (Garbage colection)
+- identifica arquivos que não são mais necessários e exclui
+- Otimização em questão de performance
+______________________________________________________________________________________________________________________________________________________________________
+
+Checando a integridade dos arquivos
+
+- Git fsck
+- Integridade dos arquivos e sua conectividade
+- Comando de rotina
+______________________________________________________________________________________________________________________________________________________________________
+
+Reflog
+
+- Git reflog
+- Mapeia todos os passos do repositório
+- Ficam salvos até expirar (Tempo padrão é de 30 dias)
+______________________________________________________________________________________________________________________________________________________________________
+
+Compactando um repositório
+
+- Git archive --format zip --output master_files.zip master
