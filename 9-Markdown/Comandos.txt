@@ -1,0 +1,51 @@
+Markdown
+
+- Adicionar estilo aos textos WEB
+- Read.md aceita esse estilo
+- Trecho de código, links, imagens e etc
+- Melhor experiência do usuário nas documentações 
+
+
+Títulos
+
+- Cabeçalhos
+- # -> h1, ## -> h2 e assim consecutivamente
+
+Textos
+
+- Negrito: **texto** ou __texto__
+- Itálico: *texto* ou _texto_
+- Combinando os dois _um**texto**combinado_
+
+Listas
+
+- Ordenadas e não ordenadas
+- <ul> *Item
+- <ol> 1.Item (2 tabs formam uma sublista)
+
+Imagens
+
+- ![Texto Alt](link imagem)
+
+Links
+
+- [Texto do link](link)
+
+Inserindo código fonte
+
+- ```código```
+- Especial do GitHub
+
+Tasklist
+
+- -[X] Feito
+- -[] Não feito
+- Especial do Github
+
+
+
+
+
+
+
+
