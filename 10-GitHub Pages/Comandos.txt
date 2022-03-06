@@ -1,0 +1,13 @@
+GitHub Pages
+
+- Criação de páginas estáticas nos servidores do GitHub
+- Hospedagem de portifólio
+- Não precisa de domínio e servidor
+- Apresentação de projetos e documentação
+
+Criação do repositório
+
+- Repositório com o nome: "nomedousuario.github.io"
+- Clonar o repo na máquina
+- Adicionar o código
+- Enviar o código
