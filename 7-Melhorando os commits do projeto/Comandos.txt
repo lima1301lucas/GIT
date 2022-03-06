@@ -1,0 +1,29 @@
+A importância dos commits
+
+- Committs sem sentido atrapalham o projeto
+- Padronização dos commits
+- Pull Request
+- Melhoria dos logs
+- Manutenção do projeto
+
+Branches com commits ruins
+
+- private branches
+- Essas branches não serão compartilhadas no repositório
+- No fim da solução basta fazer um rebase
+- gite rebase <atual> <funcionalidade> -i
+- Excluir as branches (squash) e renomear (reword)
+
+Boas mensagens de commits
+
+- Separar o assunto do corpo da mensagem
+- 50 caracteres
+- Letra inicial em maiúscula
+- Corpo com 72 caracteres
+- Por que e como do commit e não como o código foi feito
+
+- git commit -a -m "Criada função de adição de produto 
+
+A função foi criada para os novos clientes não cadastrados conseguirem adicionar produtos ao carrinho"
+
+
