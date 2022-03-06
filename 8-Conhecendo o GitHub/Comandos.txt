@@ -1,0 +1,73 @@
+GitHub
+
+- Licensa
+- Read.me
+- Gitignore
+
+Aba code
+
+- Código fonte
+- Branches
+- Tags (Versão)
+
+Aba issue
+
+- Criar tarefas ou bugs do projeto
+- Organização e ciência do que precisa ser feito ou corrigido
+- Padrão de criação
+- Markdown 
+- Deve ter um label e um responsável
+
+Aba pull request
+
+- Aba de envio do código para resolver issues ou adicionar novas funcionalidades
+- A ideia seria o código passar por uma análise antes de ser inserido direto na master
+- Ele vêm de um novo branch criado no projeto e enviado para o repositório como o incremento do código
+
+Aba actions
+
+- Automatizações de deploy com integração aos outros serviços
+- CI/CD (Continuous integration/Continuos development)
+- Rotina de ataulização da master automaticamente
+
+Aba projects
+
+- Quadro de tarefas
+- Kanban
+- Estrutura de backlog, retorno de qualidade, desenvolvimento, teste, finalizadas
+- Trello
+
+Aba Wiki
+
+- Documentação mais extensa
+- Descrever funcionalidades, bugs conhecidos e não solucionados e etc/
+- Repositório de conhecimento do projeto
+
+Aba insights
+
+- Informações detalhadas do projeto
+- Contribuidores, commits, forks e etc
+- Evolução do projeto
+
+Aba settings
+
+- Acesso as configurações do projeto
+- Adicionar/remover features
+- Colaboradores
+- Remoção do repositório
+
+Gist
+
+- Pequenos blocos de código
+- Armazenar uma solução
+- Compartilhar o link
+- É um repositório
+
+Encontrando repositórios
+
+- Não apenas salvar
+- Olhar código fonte de outros devs mais experientes
+- Star (Serve para avisar sobre as atualizações)
+
+
+
